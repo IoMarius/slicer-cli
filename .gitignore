@@ -12,3 +12,7 @@ wheels/
 
 # VS Code
 .vscode
+
+# MCP
+.axon
+kuzu
